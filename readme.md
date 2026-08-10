@@ -19,11 +19,11 @@ Abra o terminal do seu Ubuntu.
 
 Clone este repositório:
 ```bash
-git clone https://github.com/joa1paulo/TrabalhoFinalPF.git
+git clone https://github.com/joa1paulo/InventarioMidiasFuncionalHaskell.git
 ```
 Navegue até a pasta do projeto:
 ```bash
-cd TrabalhoFinalPF
+cd InventarioMidiasFuncionalHaskell
 ```
 
 ## 🛠️ Como Compilar e Executar
